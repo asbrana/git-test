@@ -8,6 +8,8 @@ public class App {
 		System.out.println("Novo system out");
 		
 		System.out.println("Mais um!");
+		
+		System.out.println("outro teste!");
 	}
 
 }
