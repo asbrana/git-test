@@ -1,5 +1,6 @@
 package br.com.bla;
 
+import br.com.bla.model.Medidor;
 
 public class App {
 
@@ -8,6 +9,8 @@ public class App {
 		System.out.println("Novo system out");
 		
 		System.out.println("Mais um!");
+		
+		System.out.println(new Medidor(new Long(12), "XX123456YY"));
 	}
 
 }
