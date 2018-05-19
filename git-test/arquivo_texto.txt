@@ -1,2 +1,3 @@
 É só um arquivo texto.
 Adicionei uma nova linha aqui.
+Uma segunda linha
